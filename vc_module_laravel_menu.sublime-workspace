@@ -1,0 +1,570 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"me",
+				"$meta_fields〔variable〕"
+			],
+			[
+				"shc",
+				"$schema〔variable〕"
+			],
+			[
+				"tran",
+				"transformer"
+			],
+			[
+				"UserR",
+				"UserRepository〔namespace〕"
+			],
+			[
+				"User",
+				"UserRepositoryEloquent〔namespace〕"
+			],
+			[
+				"repo",
+				"$repository〔variable〕"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"site",
+				"Snippet: bs3-input-tel"
+			],
+			[
+				"for",
+				"phpfmt: format now"
+			],
+			[
+				"ex",
+				"PHPCompanion:Expand Fully Qualified Class Name"
+			],
+			[
+				"find",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"fin",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"expand",
+				"PHPCompanion:Expand Fully Qualified Class Name"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Changelog"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Data/Works/Projects/packages/vc_module_laravel_menu"
+	],
+	"file_history":
+	[
+		"/Volumes/Data/OneDrive/Thanchet/Dev/Web/nginx-sites-available/afghan-fund.conf",
+		"/Volumes/Data/OneDrive/Thanchet/Dev/Web/nginx-sites-available/stadmin.conf",
+		"/Volumes/Data/OneDrive/Thanchet/Dev/Web/nginx-sites-available/ushift.conf",
+		"/Volumes/Data/OneDrive/Thanchet/Dev/Web/nginx-sites-available/vc-module-laravel-menu.conf",
+		"/Volumes/Data/OneDrive/Thanchet/Dev/Web/nginx-sites-available/reflaunt.conf",
+		"/private/etc/hosts",
+		"/Volumes/Data/OneDrive/Thanchet/Dev/Web/nginx-sites-available/auth.vicoders.conf",
+		"/Volumes/Data/OneDrive/Thanchet/Dev/Web/nginx-sites-available/beppo.conf",
+		"/Volumes/Data/OneDrive/Thanchet/Dev/Web/nginx-sites-available/php7.conf",
+		"/Volumes/Data/OneDrive/Thanchet/Dev/Web/nginx-sites-available/viwebsite.conf",
+		"/Volumes/Data/OneDrive/Thanchet/Dev/Web/nginx-sites-available/angia.conf",
+		"/Volumes/Data/OneDrive/Thanchet/Dev/Web/nginx-sites-available/styletribute.conf",
+		"/Users/hieupv/Downloads/command_node_db.sql",
+		"/Volumes/Data/OneDrive/Thanchet/Dev/Web/nginx-sites-available/vietartist.conf",
+		"/Volumes/Data/OneDrive/Thanchet/Dev/Web/nginx-sites-available/wp-origin.conf",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Http/Controllers/ApiController.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Http/Controllers/AuthController.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Http/Controllers/Admin/UserController.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Validators/UserValidator.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Traits/UserMethodsAdmin.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Traits/Authenticate.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/app/Validators/UserValidator.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/app/Entities/User.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Traits/UserManagementTrait.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Traits/UserMethodsFrontend.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Http/Controllers/Frontend/UserController.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Providers/LumenUserComponentProvider.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Providers/UserComponentProvider.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Traits/StatusMethodsAdmin.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Entities/Status.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Traits/UserSchemaTrait.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Transformers/StatusTransformer.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Transformers/UserTransformer.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Entities/User.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Entities/UserMeta.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Repositories/StatusRepository.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Repositories/StatusRepositoryEloquent.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Repositories/UserRepository.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Repositories/UserRepositoryEloquent.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/app/Http/Controllers/ApplicationController.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Contracts/UserManagement.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Contracts/UserSchema.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Exceptions/PermissionDeniedException.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Http/Controllers/Admin/StatusController.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/database/migrations/2018_07_24_065201_create_users_table.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/app/Validators/AbstractValidator.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/vendor/illuminate/database/Schema/Blueprint.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/vendor/dingo/blueprint/src/Blueprint.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/bootstrap/app.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/app/Transformers/UserTransformer.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/composer.json",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/app/Http/Controllers/ApiController.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/app/Http/Controllers/UserController.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/config/user.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/app/Http/Controllers/ExampleController.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/.env.example",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/.env",
+		"/Volumes/Data/Works/Projects/phpmyadmin/config.inc.php",
+		"/Volumes/Data/Works/Projects/phpmyadmin/libraries/config.default.php",
+		"/Volumes/Data/Works/Projects/phpmyadmin/config.sample.inc.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/composer.json",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/app/Providers/AppServiceProvider.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/user_component/src/routes.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/routes/api.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/app/Providers/AuthServiceProvider.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/app/Http/Controllers/UserController.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/app/Repositories/UserRepository.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/vendor/dingo/api/src/Provider/ServiceProvider.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/app/Exceptions/NotFoundException.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/app/Exceptions/PermissionDeniedException.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/routes/web.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/error_code.md",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/app/Exceptions/Handler.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/vendor/symfony/polyfill-util/TestListenerTrait.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/app/Repositories/UserRepositoryEloquent.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/app/Events/Event.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/app/Events/ExampleEvent.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/app/User.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/config/auth.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/database/seeds/UsersTableSeeder.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/database/seeds/ApiController.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/database/seeds/DatabaseSeeder.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/database/seeds/demo_users_seeders.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/vendor/tymon/jwt-auth/src/Providers/JWT/JWTProvider.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/vendor/tymon/jwt-auth/src/Providers/JWTAuthServiceProvider.php",
+		"/Volumes/Data/Works/Projects/vicoders_auth_microservice/vendor/laravel/lumen-framework/src/Providers/EventServiceProvider.php",
+		"/Users/hieupv/Downloads/stadmin.conf",
+		"/Volumes/Data/Works/Projects/docker/redis/docker-compose.yaml",
+		"/Volumes/Data/OneDrive/Thanchet/Dev/Web/Homestead/Vagrantfile",
+		"/Users/hieupv/.bash_profile"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "vc_module_laravel_menu.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ref",
+				"nginx-sites-available/reflaunt.conf"
+			],
+			[
+				"ushi",
+				"nginx-sites-available/ushift.conf"
+			],
+			[
+				"viwe",
+				"nginx-sites-available/viwebsite.conf"
+			],
+			[
+				"auth",
+				"nginx-sites-available/auth.vicoders.conf"
+			],
+			[
+				"au",
+				"nginx-sites-available/auth.vicoders.conf"
+			],
+			[
+				"ushift",
+				"nginx-sites-available/ushift.conf"
+			],
+			[
+				"Authenticate",
+				"user_component/src/app/Traits/Authenticate.php"
+			],
+			[
+				"adminUser",
+				"user_component/src/app/Http/Controllers/Admin/UserController.php"
+			],
+			[
+				"UserVa",
+				"user_component/src/app/Validators/UserValidator.php"
+			],
+			[
+				"ApiController",
+				"user_component/src/app/Http/Controllers/ApiController.php"
+			],
+			[
+				"UserMethodsAdmin",
+				"user_component/src/app/Traits/UserMethodsAdmin.php"
+			],
+			[
+				"adminUsercon",
+				"user_component/src/app/Http/Controllers/Admin/UserController.php"
+			],
+			[
+				"DingoBlu",
+				"vendor/dingo/blueprint/src/Blueprint.php"
+			],
+			[
+				"Blueprint",
+				"vendor/illuminate/database/Schema/Blueprint.php"
+			],
+			[
+				"create_user",
+				"database/migrations/2018_07_24_065201_create_users_table.php"
+			],
+			[
+				"User",
+				"app/Entities/User.php"
+			],
+			[
+				"UserTra",
+				"app/Transformers/UserTransformer.php"
+			],
+			[
+				"LumenUserComponentProvider",
+				"user_component/src/app/Providers/LumenUserComponentProvider.php"
+			],
+			[
+				"app",
+				"bootstrap/app.php"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"app.php",
+				"bootstrap/app.php"
+			],
+			[
+				".env",
+				".env.example"
+			],
+			[
+				"libraries/config.default.php",
+				"phpmyadmin/libraries/config.default.php"
+			],
+			[
+				"UserCo",
+				"user_component/src/app/Http/Controllers/UserController.php"
+			],
+			[
+				"route/api",
+				"routes/api.php"
+			],
+			[
+				"route/a",
+				"routes/api.php"
+			],
+			[
+				"user_",
+				"database/migrations/2018_07_24_065201_create_users_table.php"
+			],
+			[
+				"AppServiceProvider",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"UserRepository",
+				"app/Repositories/UserRepository.php"
+			],
+			[
+				"appS",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				".e",
+				".env"
+			],
+			[
+				"ApiServiceProvider",
+				"vendor/dingo/api/src/Provider/ServiceProvider.php"
+			],
+			[
+				"api",
+				"routes/api.php"
+			],
+			[
+				"err",
+				"error_code.md"
+			],
+			[
+				"UserController",
+				"app/Http/Controllers/UserController.php"
+			],
+			[
+				"bootstra/app",
+				"bootstrap/app.php"
+			],
+			[
+				"UserRe",
+				"app/Repositories/UserRepository.php"
+			],
+			[
+				"erro",
+				"error_code.md"
+			],
+			[
+				"app.",
+				"bootstrap/app.php"
+			],
+			[
+				"com",
+				"composer.json"
+			],
+			[
+				"demo",
+				"database/seeds/demo_users_seeders.php"
+			],
+			[
+				"2018_07_24_065201_create_users_table",
+				"database/migrations/2018_07_24_065201_create_users_table.php"
+			],
+			[
+				"config/",
+				"config/auth.php"
+			],
+			[
+				"JWTSer",
+				"vendor/tymon/jwt-auth/src/Providers/JWTAuthServiceProvider.php"
+			],
+			[
+				"LumenServiceProvider",
+				"vendor/laravel/lumen-framework/src/Providers/EventServiceProvider.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"af",
+				"/Volumes/Data/Works/Sublime/afghan-fund.sublime-project"
+			],
+			[
+				"a",
+				"/Volumes/Data/Works/Sublime/auth-micoservice.sublime-project"
+			],
+			[
+				"viwe",
+				"/Volumes/Data/Works/Sublime/viwebsite_web.sublime-project"
+			],
+			[
+				"ushi",
+				"/Volumes/Data/Works/Sublime/ushift.sublime-project"
+			],
+			[
+				"stie",
+				"/Volumes/Data/Works/Sublime/site-configs.sublime-project"
+			],
+			[
+				"inte",
+				"/Volumes/Data/OneDrive/Thanchet/Dev/Web/nginx-sites-available/reflaunt_integration_example.sublime-project"
+			],
+			[
+				"inter",
+				"/Volumes/Data/OneDrive/Thanchet/Dev/Web/nginx-sites-available/reflaunt_integration_example.sublime-project"
+			],
+			[
+				"vi",
+				"/Volumes/Data/Works/Sublime/viwebsite_web.sublime-project"
+			],
+			[
+				"in",
+				"/Volumes/Data/OneDrive/Thanchet/Dev/Web/nginx-sites-available/reflaunt_integration_example.sublime-project"
+			],
+			[
+				"sit",
+				"/Volumes/Data/Works/Sublime/site-configs.sublime-project"
+			],
+			[
+				"",
+				"/Volumes/Data/OneDrive/Thanchet/Dev/Web/nginx-sites-available/reflaunt_integration_example.sublime-project"
+			],
+			[
+				"au",
+				"/Volumes/Data/Works/Sublime/auth-micoservice.sublime-project"
+			],
+			[
+				"site",
+				"/Volumes/Data/Works/Sublime/site-configs.sublime-project"
+			],
+			[
+				"us",
+				"/Volumes/Data/Works/Sublime/ushift.sublime-project"
+			],
+			[
+				"ush",
+				"/Volumes/Data/Works/Sublime/ushift.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 413.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
